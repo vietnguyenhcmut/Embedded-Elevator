@@ -1,0 +1,2 @@
+Android app được thiết kế sử dụng React Native, kết nối tới Google Firebase, 
+truyền nhận tín hiệu điều khiển với ESP8266 NodeMCU
